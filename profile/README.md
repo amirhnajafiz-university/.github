@@ -32,3 +32,4 @@ For each project or course that I had in university there is a repository.
 | JPEG compression | Multimedia Systems | [link](https://github.com/ceit-aut/jpeg-compression) |
 | Hollyworld | Multimedia Systems | [link](https://github.com/ceit-aut/hollyworld) |
 | Image histogram systematization | Multimedia Systems | [link](https://github.com/ceit-aut/image-histogram-systematization) |
+| Signal Modulation | Data Communications | [link](https://github.com/ceit-aut/signal-modulation) |
