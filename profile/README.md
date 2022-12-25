@@ -37,3 +37,7 @@ For each project or course that I had in university there is a repository.
 | Cryptometer | Cloud Computing | [link](https://github.com/ceit-aut/cryptometer) |
 | Host Scanner | Data Security | [link](https://github.com/ceit-aut/host-scanner) |
 | AES Encryption | Data Security | [link](https://github.com/ceit-aut/aes-encryption) |
+| Malware | Data Security | [link](https://github.com/ceit-aut/malware) |
+| Gitgle | Internet Engineering | [link](https://github.com/ceit-aut/gitgle) |
+| Courses | Internet Engineering | [link](https://github.com/ceit-aut/courses) |
+| Poliecman | Internet Engineering | [link](https://github.com/ceit-aut/policeman) |
