@@ -19,6 +19,7 @@ For each project or course that I had in university there is a repository.
 | Logic circuits base | Logic Circuits | [link](https://github.com/ceit-aut/logic-circuits-base) |
 | Big num calculator | Data Structures | [link](https://github.com/ceit-aut/big-num-calculator) |
 | Linear Algebra | Linear Algebra | [link](https://github.com/ceit-aut/linear-algebra) |
+| Stream Database | Database | [link](https://github.com/ceit-aut/stream-database) |
 | OS Lab | Operating Systems | [link](https://github.com/ceit-aut/operating-systems-lab) |
 | Signals and Systems | Signals and Systems | [link](https://github.com/ceit-aut/signals-systems) |
 | Algo design | Algorithms design | [link](https://github.com/ceit-aut/algo-design) |
