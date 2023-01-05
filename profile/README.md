@@ -36,6 +36,7 @@ For each project or course that I had in university there is a repository.
 | Signal Modulation | Data Communications | [link](https://github.com/ceit-aut/signal-modulation) |
 | Ad Registration Service | Cloud Computing | [link](https://github.com/ceit-aut/ad-registration-service) |
 | Cryptometer | Cloud Computing | [link](https://github.com/ceit-aut/cryptometer) |
+| Middle Earth | Cloud Computing | [link](https://github.com/ceit-aut/middle-earth) |
 | Host Scanner | Data Security | [link](https://github.com/ceit-aut/host-scanner) |
 | AES Encryption | Data Security | [link](https://github.com/ceit-aut/aes-encryption) |
 | Malware | Data Security | [link](https://github.com/ceit-aut/malware) |
