@@ -41,6 +41,7 @@ For each project or course that I had in university there is a repository.
 | AES Encryption | Data Security | [link](https://github.com/ceit-aut/aes-encryption) |
 | Malware | Data Security | [link](https://github.com/ceit-aut/malware) |
 | SSH Chat | Data Security | [link](https://github.com/ceit-aut/ssh-chat) |
-| Gitgle | Internet Engineering | [link](https://github.com/ceit-aut/gitgle) |
-| Courses | Internet Engineering | [link](https://github.com/ceit-aut/courses) |
-| Poliecman | Internet Engineering | [link](https://github.com/ceit-aut/policeman) |
+| S7IE01 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE01) |
+| S7IE02 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE02) |
+| S7IE03 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE03) |
+| S7IE04 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE04) |
