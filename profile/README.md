@@ -8,16 +8,16 @@ For each project or course that I had in university there is a repository.
 ## List of Courses and Projects
 | Project      | Course | Link |
 | :-----------: | ----------- |--|
-| Lonely Cells      | Fundumental Programming       |[link](https://github.com/ceit-aut/lonely-cells)|
-| J Othello | Advanced Programming | [link](https://github.com/ceit-aut/j-othello) |
-| J Pentago | Advanced Programming | [link](https://github.com/ceit-aut/j-pentago) |
-| J Uno | Advanced Programming | [link](https://github.com/ceit-aut/j-uno) |
-| J Url | Advanced Programming | [link](https://github.com/ceit-aut/j-url) |
-| J Tank Trouble | Advanced Programming | [link](https://github.com/ceit-aut/j-tank-trouble) |
-| Airgap research | English as Tech language | [link](https://github.com/ceit-aut/airgap-research) |
-| Smart house lc project | Logic Circuits | [link](https://github.com/ceit-aut/smart-house-lc-project) |
-| Logic circuits base | Logic Circuits | [link](https://github.com/ceit-aut/logic-circuits-base) |
-| Big num calculator | Data Structures | [link](https://github.com/ceit-aut/big-num-calculator) |
+| S1FP01      | Fundumental Programming       |[link](https://github.com/ceit-aut/S1FP01)|
+| S2AP01 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP01) |
+| S2AP02 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP02) |
+| S2AP03 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP03) |
+| S2AP04 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP04) |
+| S2AP05 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP05) |
+| S3ET01 | English as Tech language | [link](https://github.com/ceit-aut/S3ET01) |
+| S3LC01 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC01) |
+| S3LC02 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC02) |
+| S3DS01 | Data Structures | [link](https://github.com/ceit-aut/S3DS01) |
 | Linear Algebra | Linear Algebra | [link](https://github.com/ceit-aut/linear-algebra) |
 | Stream Database | Database | [link](https://github.com/ceit-aut/stream-database) |
 | OS Lab | Operating Systems | [link](https://github.com/ceit-aut/operating-systems-lab) |
