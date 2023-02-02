@@ -1,14 +1,19 @@
-<h1>
-CEIT AUT
-</h1>
+# :ghost: Hello there
 
-In this organization I represent all of my projects that I have done at Faculty of Computer Engineering and Information Technology **Amirkabir University of Terhran**, Iran.
-For each project or course that I had in university there is a repository.
+<br />
+
+Welcome to **ceit-aut** where I represent all of the projects that I have done at 
+Faculty of Computer Engineering and Information Technology **Amirkabir University of Terhran**, Iran.
+These are the courses that I took at CEIT.
+
+The naming rule for repositories goes as follow ```S[semester number][course name][project number]```, so you can
+search through them easily.
 
 ## List of Courses and Projects
+
 | Project      | Course | Link |
 | :-----------: | ----------- |--|
-| S1FP01      | Fundumental Programming       |[link](https://github.com/ceit-aut/S1FP01)|
+| S1FP01 | Fundumental Programming |[link](https://github.com/ceit-aut/S1FP01)|
 | S2AP01 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP01) |
 | S2AP02 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP02) |
 | S2AP03 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP03) |
@@ -18,29 +23,29 @@ For each project or course that I had in university there is a repository.
 | S3LC01 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC01) |
 | S3LC02 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC02) |
 | S3DS01 | Data Structures | [link](https://github.com/ceit-aut/S3DS01) |
-| Linear Algebra | Linear Algebra | [link](https://github.com/ceit-aut/linear-algebra) |
-| Stream Database | Database | [link](https://github.com/ceit-aut/stream-database) |
-| OS Lab | Operating Systems | [link](https://github.com/ceit-aut/operating-systems-lab) |
-| Signals and Systems | Signals and Systems | [link](https://github.com/ceit-aut/signals-systems) |
-| Algo design | Algorithms design | [link](https://github.com/ceit-aut/algo-design) |
-| Assembly base | Microprocessors and Assembly | [link](https://github.com/ceit-aut/assembly-base) |
-| Microprocessors Lab | Microprocessors and Assembly | [link](https://github.com/ceit-aut/microprocessors-lab) |
-| AI projects | Artificail Intelligence | [link](https://github.com/ceit-aut/artificail-intelligence-projects) |
-| Neural Networks | Computational Intelligence | [link](https://github.com/ceit-aut/neural-networks) |
-| Neuroevolution Game | Computational Intelligence | [link](https://github.com/ceit-aut/neuroevolution-game) |
-| FES for diagnosing heart disease | Computational Intelligence | [link](https://github.com/ceit-aut/fes-for-diagnosing-heart-disease) |
-| Packet monitoring | Computer Networks | [link](https://github.com/ceit-aut/packet-monitoring) |
-| JPEG compression | Multimedia Systems | [link](https://github.com/ceit-aut/jpeg-compression) |
-| Hollyworld | Multimedia Systems | [link](https://github.com/ceit-aut/hollyworld) |
-| Image histogram systematization | Multimedia Systems | [link](https://github.com/ceit-aut/image-histogram-systematization) |
-| Signal Modulation | Data Communications | [link](https://github.com/ceit-aut/signal-modulation) |
-| Ad Registration Service | Cloud Computing | [link](https://github.com/ceit-aut/ad-registration-service) |
-| Cryptometer | Cloud Computing | [link](https://github.com/ceit-aut/cryptometer) |
-| Middle Earth | Cloud Computing | [link](https://github.com/ceit-aut/middle-earth) |
-| Host Scanner | Data Security | [link](https://github.com/ceit-aut/host-scanner) |
-| AES Encryption | Data Security | [link](https://github.com/ceit-aut/aes-encryption) |
-| Malware | Data Security | [link](https://github.com/ceit-aut/malware) |
-| SSH Chat | Data Security | [link](https://github.com/ceit-aut/ssh-chat) |
+| S4LA01 | Linear Algebra | [link](https://github.com/ceit-aut/S4LA01) |
+| S4DB01 | Database | [link](https://github.com/ceit-aut/S4DB01) |
+| S5OS01 | Operating Systems | [link](https://github.com/ceit-aut/S5OS01) |
+| S5SS01 | Signals and Systems | [link](https://github.com/ceit-aut/S5SS01) |
+| S5AD01 | Algorithms design | [link](https://github.com/ceit-aut/S5AD01) |
+| S5MP01 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP01) |
+| S5MP02 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP02) |
+| S5AI01 | Artificail Intelligence | [link](https://github.com/ceit-aut/S5AI01) |
+| S6CI01 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI01) |
+| S6CI02 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI02) |
+| S6CI03 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI03) |
+| S6CN01 | Computer Networks | [link](https://github.com/ceit-aut/S6CN01) |
+| S6MM01 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM01) |
+| S6MM02 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM02) |
+| S6MM03 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM03) |
+| S7DC01 | Data Communications | [link](https://github.com/ceit-aut/S7DC01) |
+| S7CC01 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC01) |
+| S7CC02 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC02) |
+| S7CC03 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC03) |
+| S7IS01 | Information Security | [link](https://github.com/ceit-aut/S7IS01) |
+| S7IS02 | Information Security | [link](https://github.com/ceit-aut/S7IS02) |
+| S7IS03 | Information Security | [link](https://github.com/ceit-aut/S7IS03) |
+| S7IS04 | Information Security | [link](https://github.com/ceit-aut/S7IS04) |
 | S7IE01 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE01) |
 | S7IE02 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE02) |
 | S7IE03 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE03) |
