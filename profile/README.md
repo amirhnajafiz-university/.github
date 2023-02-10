@@ -11,15 +11,15 @@ search through them easily.
 
 ## List of Courses and Projects
 
-| Project      | Course | Link |
-| :-----------: | ----------- |--|
-| S1FP01 | Fundumental Programming |[link](https://github.com/ceit-aut/S1FP01)|
-| S2AP01 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP01) |
-| S2AP02 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP02) |
-| S2AP03 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP03) |
-| S2AP04 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP04) |
-| S2AP05 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP05) |
-| S3ET01 | English as Tech language | [link](https://github.com/ceit-aut/S3ET01) |
+| Project      | Course | Link | Description |
+| :-----------: | ----------- |--|-----------|
+| S1FP01 | Fundumental Programming |[link](https://github.com/ceit-aut/S1FP01)| Creating a board game with C |
+| S2AP01 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP01) | Implementing Othello board game with Java |
+| S2AP02 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP02) | Implementing Pentago board game with Java |
+| S2AP03 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP03) | Implementing UNO card game with Java |
+| S2AP04 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP04) | Simulating Insomnia application with Java |
+| S2AP05 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP05) | Implementing Tank Trouble game with Java |
+| S3ET01 | English as Tech language | [link](https://github.com/ceit-aut/S3ET01) | Presentation for Air-Gap systems |
 | S3LC01 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC01) |
 | S3LC02 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC02) |
 | S3DS01 | Data Structures | [link](https://github.com/ceit-aut/S3DS01) |
