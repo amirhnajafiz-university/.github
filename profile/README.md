@@ -20,14 +20,14 @@ search through them easily.
 | S2AP04 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP04) | Simulating Insomnia application with Java |
 | S2AP05 | Advanced Programming | [link](https://github.com/ceit-aut/S2AP05) | Implementing Tank Trouble game with Java |
 | S3ET01 | English as Tech language | [link](https://github.com/ceit-aut/S3ET01) | Presentation for Air-Gap systems |
-| S3LC01 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC01) |
-| S3LC02 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC02) |
-| S3DS01 | Data Structures | [link](https://github.com/ceit-aut/S3DS01) |
-| S4LA01 | Linear Algebra | [link](https://github.com/ceit-aut/S4LA01) |
-| S4DB01 | Database | [link](https://github.com/ceit-aut/S4DB01) |
-| S5OS01 | Operating Systems | [link](https://github.com/ceit-aut/S5OS01) |
-| S5SS01 | Signals and Systems | [link](https://github.com/ceit-aut/S5SS01) |
-| S5AD01 | Algorithms design | [link](https://github.com/ceit-aut/S5AD01) |
+| S3LC01 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC01) | Learning Logic circuits |
+| S3LC02 | Logic Circuits | [link](https://github.com/ceit-aut/S3LC02) | Implementing a smart house system |
+| S3DS01 | Data Structures | [link](https://github.com/ceit-aut/S3DS01) | Calculator for big numbers |
+| S4LA01 | Linear Algebra | [link](https://github.com/ceit-aut/S4LA01) | List of linear algebra mini projects |
+| S4DB01 | Database | [link](https://github.com/ceit-aut/S4DB01) | Implementing database of IMDB |
+| S5OS01 | Operating Systems | [link](https://github.com/ceit-aut/S5OS01) | Operating systems lab |
+| S5SS01 | Signals and Systems | [link](https://github.com/ceit-aut/S5SS01) | List of signals and systems mini projects |
+| S5AD01 | Algorithms design | [link](https://github.com/ceit-aut/S5AD01) | Useful algorithms and their implementations |
 | S5MP01 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP01) |
 | S5MP02 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP02) |
 | S5AI01 | Artificail Intelligence | [link](https://github.com/ceit-aut/S5AI01) |
