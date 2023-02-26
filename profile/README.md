@@ -28,13 +28,13 @@ search through them easily.
 | S5OS01 | Operating Systems | [link](https://github.com/ceit-aut/S5OS01) | Operating systems lab |
 | S5SS01 | Signals and Systems | [link](https://github.com/ceit-aut/S5SS01) | List of signals and systems mini projects |
 | S5AD01 | Algorithms design | [link](https://github.com/ceit-aut/S5AD01) | Useful algorithms and their implementations |
-| S5MP01 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP01) |
-| S5MP02 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP02) |
-| S5AI01 | Artificail Intelligence | [link](https://github.com/ceit-aut/S5AI01) |
-| S6CI01 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI01) |
-| S6CI02 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI02) |
-| S6CI03 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI03) |
-| S6CN01 | Computer Networks | [link](https://github.com/ceit-aut/S6CN01) |
+| S5MP01 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP01) | Microprocessors lab |
+| S5MP02 | Microprocessors and Assembly | [link](https://github.com/ceit-aut/S5MP02) | Assembly lab |
+| S5AI01 | Artificail Intelligence | [link](https://github.com/ceit-aut/S5AI01) | AI projects |
+| S6CI01 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI01) | Implementation of Neural Networks |
+| S6CI02 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI02) | Implementing a fuzzy system |
+| S6CI03 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI03) | RL project |
+| S6CN01 | Computer Networks | [link](https://github.com/ceit-aut/S6CN01) | Service monitoring with Prometheus |
 | S6MM01 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM01) |
 | S6MM02 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM02) |
 | S6MM03 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM03) |
