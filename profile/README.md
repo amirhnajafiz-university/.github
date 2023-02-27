@@ -6,10 +6,15 @@ Welcome to **ceit-aut** where I represent all of the projects that I have done a
 Faculty of Computer Engineering and Information Technology **Amirkabir University of Terhran**, Iran.
 These are the courses that I took at CEIT.
 
+<br />
+
+For each course I had one or more projects, you can check them and feel free to give me your opinions about them.
 The naming rule for repositories goes as follow ```S[semester number][course name][project number]```, so you can
 search through them easily.
 
 ## List of Courses and Projects
+
+<br />
 
 | Project      | Course | Link | Description |
 | :-----------: | ----------- |--|-----------|
