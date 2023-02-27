@@ -35,13 +35,13 @@ search through them easily.
 | S6CI02 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI02) | Implementing a fuzzy system |
 | S6CI03 | Computational Intelligence | [link](https://github.com/ceit-aut/S6CI03) | RL project |
 | S6CN01 | Computer Networks | [link](https://github.com/ceit-aut/S6CN01) | Service monitoring with Prometheus |
-| S6MM01 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM01) |
-| S6MM02 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM02) |
-| S6MM03 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM03) |
-| S7DC01 | Data Communications | [link](https://github.com/ceit-aut/S7DC01) |
-| S7CC01 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC01) |
-| S7CC02 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC02) |
-| S7CC03 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC03) |
+| S6MM01 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM01) | JPEG Compression using Python |
+| S6MM02 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM02) | Image histogram systematization |
+| S6MM03 | Multimedia Systems | [link](https://github.com/ceit-aut/S6MM03) | Implementing IMdb website |
+| S7DC01 | Data Communications | [link](https://github.com/ceit-aut/S7DC01) | Amplitude Modulation for signals using Python |
+| S7CC01 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC01) | Ad registration service (micro-service) |
+| S7CC02 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC02) | Docker and Kubernetes |
+| S7CC03 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC03) | Hadoop and Spark |
 | S7IS01 | Information Security | [link](https://github.com/ceit-aut/S7IS01) |
 | S7IS02 | Information Security | [link](https://github.com/ceit-aut/S7IS02) |
 | S7IS03 | Information Security | [link](https://github.com/ceit-aut/S7IS03) |
