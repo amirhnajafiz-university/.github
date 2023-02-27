@@ -46,7 +46,7 @@ search through them easily.
 | S7IS02 | Information Security | [link](https://github.com/ceit-aut/S7IS02) | Implementing AES encryption and decryption with Python |
 | S7IS03 | Information Security | [link](https://github.com/ceit-aut/S7IS03) | Maleware |
 | S7IS04 | Information Security | [link](https://github.com/ceit-aut/S7IS04) | Chatroom over SSH |
-| S7IE01 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE01) |
-| S7IE02 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE02) |
-| S7IE03 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE03) |
-| S7IE04 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE04) |
+| S7IE01 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE01) | Git practical assignment |
+| S7IE02 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE02) | Github users search engine |
+| S7IE03 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE03) | Http Endpoint Monitoring service |
+| S7IE04 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE04) | Course Website template |
