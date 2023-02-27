@@ -42,10 +42,10 @@ search through them easily.
 | S7CC01 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC01) | Ad registration service (micro-service) |
 | S7CC02 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC02) | Docker and Kubernetes |
 | S7CC03 | Cloud Computing | [link](https://github.com/ceit-aut/S7CC03) | Hadoop and Spark |
-| S7IS01 | Information Security | [link](https://github.com/ceit-aut/S7IS01) |
-| S7IS02 | Information Security | [link](https://github.com/ceit-aut/S7IS02) |
-| S7IS03 | Information Security | [link](https://github.com/ceit-aut/S7IS03) |
-| S7IS04 | Information Security | [link](https://github.com/ceit-aut/S7IS04) |
+| S7IS01 | Information Security | [link](https://github.com/ceit-aut/S7IS01) | Host scanner with nmap |
+| S7IS02 | Information Security | [link](https://github.com/ceit-aut/S7IS02) | Implementing AES encryption and decryption with Python |
+| S7IS03 | Information Security | [link](https://github.com/ceit-aut/S7IS03) | Maleware |
+| S7IS04 | Information Security | [link](https://github.com/ceit-aut/S7IS04) | Chatroom over SSH |
 | S7IE01 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE01) |
 | S7IE02 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE02) |
 | S7IE03 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE03) |
