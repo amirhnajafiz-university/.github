@@ -55,3 +55,4 @@ search through them easily.
 | S7IE02 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE02) | Github users search engine |
 | S7IE03 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE03) | Http Endpoint Monitoring service |
 | S7IE04 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE04) | Course Website template |
+| S8ER01 | Embedded and Realtime Systems | [link](https://github.com/amirhnajafiz-university/S8ER01) | Minimal RTOS |
