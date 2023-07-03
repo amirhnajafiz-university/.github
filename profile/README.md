@@ -56,3 +56,4 @@ search through them easily.
 | S7IE03 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE03) | Http Endpoint Monitoring service |
 | S7IE04 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE04) | Course Website template |
 | S8ER01 | Embedded and Realtime Systems | [link](https://github.com/amirhnajafiz-university/S8ER01) | Minimal RTOS |
+| S8ER02 | Embedded and Realtime Systems | [link](https://github.com/amirhnajafiz-university/S8ER02) | Task and Resource Scheduler |
