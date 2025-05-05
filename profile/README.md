@@ -2,9 +2,10 @@
 
 <br />
 
-Welcome to **ceit-aut** where I represent all of the projects that I have done at 
-Faculty of Computer Engineering and Information Technology **Amirkabir University of Terhran**, Iran.
-These are the courses that I took at CEIT.
+Welcome to **ceit-aut** where I represent all of the projects that I have done at:
+
+- Faculty of Computer Engineering and Information Technology **Amirkabir University of Terhran**, Iran.
+- CS Department **State University of New York**, USA.
 
 <br />
 
@@ -57,3 +58,5 @@ search through them easily.
 | S7IE04 | Internet Engineering | [link](https://github.com/ceit-aut/S7IE04) | Course Website template |
 | S8ER01 | Embedded and Realtime Systems | [link](https://github.com/amirhnajafiz-university/S8ER01) | Minimal RTOS |
 | S8ER02 | Embedded and Realtime Systems | [link](https://github.com/amirhnajafiz-university/S8ER02) | Task and Resource Scheduler |
+| CSE547 | Discrete Mathematics | [link](https://github.com/amirhnajafiz-university/CSE-547) | Homeworks |
+| CSE564 | Visualization | [link](https://github.com/amirhnajafiz-university/CSE-564) | Labs |
