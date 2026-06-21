@@ -1,21 +1,7 @@
-# :ghost: Hello there
+# amirhnajafiz
 
-<br />
-
-Welcome to **ceit-aut** where I represent all of the projects that I have done at:
-
-- Faculty of Computer Engineering and Information Technology **Amirkabir University of Terhran**, Iran.
-- CS Department **State University of New York**, USA.
-
-<br />
-
-For each course I had one or more projects, you can check them and feel free to give me your opinions about them.
-The naming rule for repositories goes as follow ```S[semester number][course name][project number]```, so you can
-search through them easily.
-
-## List of Courses and Projects
-
-<br />
+- Computer Engineering department @ **Amirkabir University of Terhran**.
+- Computer Science department @ **Stony Brook University**.
 
 | Project      | Course | Link | Description |
 | :-----------: | ----------- |--|-----------|
